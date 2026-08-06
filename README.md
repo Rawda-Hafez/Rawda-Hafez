@@ -1,139 +1,207 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Rawda Hafez</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Rawda%20Hafez&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
-# Hi there 👋 I'm Rawda Hafez
-
-### 💻 Computer Science Student | Egyptian Chinese University 🇪🇬
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Computer+Science+Student;SQL+%7C+Database+Enthusiast;Backend+Developer+in+Progress;AI+%7C+Deep+Learning+Learner;Always+Learning+New+Things"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Rawda-Hafez&label=Profile%20Views&color=00C9A7&style=for-the-badge"/>
-
-</div>
-
----
-
-## 🧠 About Me
-
-> *"I enjoy designing efficient databases, solving real-world problems, and continuously improving my development skills."*
-
-- 🎓 3rd-year **Computer Science** student at **Egyptian Chinese University (ECU)** 🇪🇬
-- 🗄️ Passionate about **Databases**, **SQL**, **Database Design**, and **Data Modeling**
-- 🤖 Exploring **Artificial Intelligence**, **Deep Learning**, and **Web Applications**
-- 💻 Building my skills in **C#**, **Git**, **GitHub**, and **Backend Development**
-- 🚀 Always learning new technologies and improving my problem-solving skills
-
----
-
-## 🚀 Currently Working On
-
-- 📚 Mastering **SQL Server** & **Database Design**
-- 💻 Building Backend Projects using **C#**
-- 🌱 Learning **ASP.NET Core**
-- 🏆 Solving SQL Challenges on **HackerRank**
-
----
-
-## 🛠 Tech Stack
+<h3 align="center">
+Computer Science Student • Backend Developer • Database Enthusiast
+</h3>
 
 <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Backend+Developer;Database+Enthusiast;SQL+%7C+C%23+%7C+ASP.NET+Core;Always+Learning+New+Technologies🚀" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,sqlite,git,github,html,css,bootstrap,vscode,visualstudio"/>
+---
+
+## 🚀 About Me
+
+🎓 Third-year Computer Science student at **Egyptian Chinese University**
+
+💙 Passionate about
+
+- Database Design
+- SQL Server
+- Backend Development
+- ASP.NET Core
+- Artificial Intelligence
+
+💻 I enjoy building real-world projects and continuously improving my programming and problem-solving skills.
+
+---
+
+# 🌱 Currently Learning
+
+- ASP.NET Core
+- Entity Framework Core
+- REST APIs
+- SQL Server
+- Git & GitHub
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=cs,cpp,js,html,css"/>
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=dotnet"/>
+
+</p>
+
+### Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio"/>
 
 </p>
 
 ---
 
-## 📂 Featured Projects
+# 📂 Featured Projects
 
-- 🌍 **Tourism Management System**
-- 🗄️ **SQL Practice Repository**
-- 💻 **C# Console Applications**
-- 📊 **Database Design Projects**
+### 🌍 Tourism Management System
 
----
-
-## 📜 Certifications
-
-- 🏅 SQL Intermediate – HackerRank
-- 🏅 Git & GitHub Crash Course
-- 🏅 Database Fundamentals
+Database-driven tourism management system built with SQL Server.
 
 ---
 
-## 📊 GitHub Stats
+### 🗄 SQL Practice Repository
+
+Collection of SQL Queries, Stored Procedures, Triggers and Database Exercises.
+
+---
+
+### 💻 C# Console Applications
+
+Object-Oriented Programming practice using C#.
+
+---
+
+### 📊 Database Design Projects
+
+ER Diagrams, Normalization and Relational Database Design.
+
+---
+
+# 🏆 Certifications
+
+✅ SQL Intermediate – HackerRank
+
+✅ Git & GitHub Crash Course
+
+✅ Database Fundamentals
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rawda-Hafez&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Rawda-Hafez&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 💻 Most Used Languages
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rawda-Hafez&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rawda-Hafez&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=15"/>
 
 </p>
 
 ---
 
-## 📈 GitHub Activity
+# 📊 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rawda-Hafez&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🌍 Connect With Me
 
-<p align="center">
+<p align="left">
 
-<a href="https://www.linkedin.com/in/rawda-hafez-08b962327">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-&nbsp;&nbsp;
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
-<a href="https://github.com/Rawda-Hafez">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## ✨ Quote
+# ☕ Fun Fact
 
-> **"Success is built through continuous learning, persistence, and turning knowledge into real-world projects."**
+```text
+while(alive)
+{
+    Learn();
+    Code();
+    Improve();
+    Repeat();
+}
+```
 
 ---
 
-<div align="center">
+# 💡 Quote
 
-### ⭐ Thanks for visiting my profile!
+> **"Success comes from continuous learning, persistence, and building real-world solutions."**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6C63FF&height=120&section=footer"/>
+---
 
-</div>
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</h3>
