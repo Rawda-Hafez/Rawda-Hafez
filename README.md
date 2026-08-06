@@ -4,32 +4,23 @@
 
 # Hi there 👋 I'm Rawda Hafez
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Software+Developer;SQL+Learner;Backend+Developer+in+Progress;Git+%7C+GitHub+%7C+C%23;Always+Learning+New+Things"/>
+### 💻 Computer Science Student | Egyptian Chinese University 🇪🇬
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Computer+Science+Student;SQL+%7C+Database+Enthusiast;Backend+Developer+in+Progress;AI+%7C+Deep+Learning+Learner;Always+Learning+New+Things"/>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 🧠 About Me
 
-🎓 Software Development Student
+> *"Turning ideas into smart, functional, and beautiful solutions."*
 
-🌱 Currently Learning
-
-- SQL
-- Git & GitHub
-- C#
-- Database Design
-
-🚀 Interested in
-
-- Backend Development
-- Databases
-- Problem Solving
-
-💡 My Goal
-
-> Keep learning, build real projects, and become a professional Backend Developer.
+- 🎓 3rd-year **Computer Science** student at **Egyptian Chinese University (ECU)** 🇪🇬
+- 🗄️ Passionate about **Databases**, **SQL**, **Database Design**, and **Data Modeling**
+- 🤖 Exploring **Artificial Intelligence**, **Deep Learning**, and **Web Applications**
+- 💻 Building my skills in **C#**, **Git**, **GitHub**, and **Backend Development**
+- 🚀 Always learning new technologies and improving my problem-solving skills
 
 ---
 
@@ -37,7 +28,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,mysql,html,css,vscode,visualstudio" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,git,github,html,css,vscode,visualstudio"/>
 
 </p>
 
@@ -93,23 +84,17 @@
 
 ## ✨ Quote
 
-> **"Success doesn't come from what you do occasionally. It comes from what you do consistently."**
+> **"Success is the result of continuous learning, dedication, and perseverance."**
 
 ---
 
-## 📈 Activity Graph
+## 📈 GitHub Activity
 
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rawda-Hafez&theme=tokyo-night"/>
 
 </p>
-
----
-
-## 🐍 Contribution Snake
-
-> بعد إنشاء الـ Repository هنفعّل GitHub Actions عشان الثعبان يشتغل تلقائيًا.
 
 ---
 
