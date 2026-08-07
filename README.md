@@ -1,47 +1,39 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D8BFD8,100:FFC0CB&height=220&section=header&text=Rawda%20Hafez&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B39DDB,100:F8BBD0&height=220&section=header&text=Rawda%20Hafez&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-# 🎀 Hi there, I'm Rawda! 👋✨
+# Hi there 👋 I'm Rawda Hafez
 
 ### 💻 Computer Science Student | Egyptian Chinese University 🇪🇬
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=D8BFD8&center=true&vCenter=true&width=700&lines=Computer+Science+Student+🌸;SQL+%2C+Database+Enthusiast+🗄️;Backend+Developer+in+Progress+💻;AI+%2C+Deep+Learning+Learner+🤖;Crafting+Code+with+Passion+✨"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=B39DDB&center=true&vCenter=true&width=700&lines=Computer+Science+Student;SQL+%7C+Database+Enthusiast;Backend+Developer+in+Progress;AI+%7C+Deep+Learning+Learner;Always+Learning+New+Things"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Rawda-Hafez&label=Profile%20Views%20💖&color=d8bfd8&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Rawda-Hafez&label=Profile%20Views&color=b39ddb&style=for-the-badge"/>
 
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme-badges/master/opt/badges/rainbow.svg" alt="Rainbow" height="20"/>
-</p>
+---
+
+## 🧠 About Me
+
+> *"I enjoy designing efficient databases, solving real-world problems, and continuously improving my development skills."*
+
+- 🎓 3rd-year **Computer Science** student at **Egyptian Chinese University (ECU)** 🇪🇬
+- 🗄️ Passionate about **Databases**, **SQL**, **Database Design**, and **Data Modeling**
+- 🤖 Exploring **Artificial Intelligence**, **Deep Learning**, and **Web Applications**
+- 💻 Building my skills in **C#**, **Git**, **GitHub**, and **Backend Development**
+- 🚀 Always learning new technologies and improving my problem-solving skills
 
 ---
 
-<div align="center">
-  <p>💗 · 💌 · 💗 · 💌 · 💗</p>
-</div>
+## 🚀 Currently Working On
 
-## 🌸 About Me 
-
-> *"I enjoy designing efficient databases, solving real-world problems, and continuously improving my development skills with a touch of passion!" ☕✨*
-
-- 🎓 3rd-year <code>Computer Science</code> student at **Egyptian Chinese University (ECU)** 🇪🇬
-- 🗄️ Passionate about <code>Databases</code>, <code>SQL</code>, **Database Design**, and **Data Modeling**
-- 🤖 Exploring <code>Artificial Intelligence</code>, <code>Deep Learning</code>, and **Web Applications**
-- 💻 Building my skills in <code>C#</code>, <code>Git</code>, <code>GitHub</code>, and **Backend Development**
-- 🚀 Always learning new technologies and improving my problem-solving skills! 🍧
-
----
-
-## 🦄 Currently Working On
-
-- 📚 Mastering <code>SQL Server</code> & **Database Design**
-- 💻 Building Backend Projects using <code>C#</code>
-- 🌱 Learning <code>ASP.NET Core</code>
-- 🏆 Solving SQL Challenges on **HackerRank** 
+- 📚 Mastering **SQL Server** & **Database Design**
+- 💻 Building Backend Projects using **C#**
+- 🌱 Learning **ASP.NET Core**
+- 🏆 Solving SQL Challenges on **HackerRank**
 
 ---
 
@@ -55,7 +47,7 @@
 
 ---
 
-## 🎀 Featured Projects
+## 📂 Featured Projects
 
 - 🌍 **Tourism Management System**
 - 🗄️ **SQL Practice Repository**
@@ -66,21 +58,17 @@
 
 ## 📜 Certifications
 
-- 🏅 **SQL Intermediate** – HackerRank
-- 🏅 **Git & GitHub Crash Course**
-- 🏅 **Database Fundamentals**
+- 🏅 SQL Intermediate – HackerRank
+- 🏅 Git & GitHub Crash Course
+- 🏅 Database Fundamentals
 
 ---
 
-<div align="center">
-  <p>💗 · 💌 · 💗 · 💌 · 💗</p>
-</div>
-
-## 📊 My GitHub Journey 
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rawda-Hafez&show_icons=true&theme=catppuccin_latte&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rawda-Hafez&show_icons=true&theme=rose_pine&hide_border=true"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Rawda-Hafez&theme=rose_pine&hide_border=true"/>
 
@@ -118,34 +106,34 @@
 
 ---
 
-## 💌 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/rawda-hafez-08b962327">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://github.com/Rawda-Hafez">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
 </p>
 
 ---
 
-## ✨ Daily Reminder
+## ✨ Quote
 
-> **"Success is built through continuous learning, persistence, and turning knowledge into real-world projects."** 💖
+> **"Success is built through continuous learning, persistence, and turning knowledge into real-world projects."**
 
 ---
 
 <div align="center">
 
-### 💕 Thanks for stopping by! Have a lovely day ✨
+### ⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,100:D8BFD8&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,100:B39DDB&height=120&section=footer"/>
 
 </div>
