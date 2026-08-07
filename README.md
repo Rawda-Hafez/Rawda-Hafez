@@ -8,17 +8,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Computer+Science+Student;SQL+%7C+Database+Enthusiast;Backend+Developer+in+Progress;AI+%7C+Deep+Learning+Learner;Always+Learning+New+Things"/>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Rawda-Hafez&label=Profile%20Views&color=00C9A7&style=for-the-badge"/>
-
 </div>
 
 ---
 
 ## 🧠 About Me
 
-> *"I enjoy designing efficient databases, solving real-world problems, and continuously improving my development skills."*
+> *"Turning ideas into smart, functional, and beautiful solutions."*
 
 - 🎓 3rd-year **Computer Science** student at **Egyptian Chinese University (ECU)** 🇪🇬
 - 🗄️ Passionate about **Databases**, **SQL**, **Database Design**, and **Data Modeling**
@@ -28,39 +24,13 @@
 
 ---
 
-## 🚀 Currently Working On
-
-- 📚 Mastering **SQL Server** & **Database Design**
-- 💻 Building Backend Projects using **C#**
-- 🌱 Learning **ASP.NET Core**
-- 🏆 Solving SQL Challenges on **HackerRank**
-
----
-
 ## 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,sqlite,git,github,html,css,bootstrap,vscode,visualstudio"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,git,github,html,css,vscode,visualstudio"/>
 
 </p>
-
----
-
-## 📂 Featured Projects
-
-- 🌍 **Tourism Management System**
-- 🗄️ **SQL Practice Repository**
-- 💻 **C# Console Applications**
-- 📊 **Database Design Projects**
-
----
-
-## 📜 Certifications
-
-- 🏅 SQL Intermediate – HackerRank
-- 🏅 Git & GitHub Crash Course
-- 🏅 Database Fundamentals
 
 ---
 
@@ -96,28 +66,16 @@
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rawda-Hafez&theme=tokyo-night"/>
-
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/rawda-hafez-08b962327">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
-&nbsp;&nbsp;
-
 <a href="https://github.com/Rawda-Hafez">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
 </p>
@@ -126,7 +84,17 @@
 
 ## ✨ Quote
 
-> **"Success is built through continuous learning, persistence, and turning knowledge into real-world projects."**
+> **"Success is the result of continuous learning, dedication, and perseverance."**
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rawda-Hafez&theme=tokyo-night"/>
+
+</p>
 
 ---
 
