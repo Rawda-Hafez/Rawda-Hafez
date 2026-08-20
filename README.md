@@ -21,3 +21,13 @@
 </div>
 
 ---
+## 🧠 About Me
+
+> *"I enjoy designing efficient databases, building backend applications, and continuously turning what I learn into real-world projects."*
+
+- 🎓 3rd-year **Computer Science** student at **Egyptian Chinese University (ECU)** 🇪🇬
+- 🗄️ Passionate about **Databases**, **SQL**, **Database Design**, and **Data Modeling**
+- 💻 Building my backend development skills with **C#** and **.NET**
+- 🌱 Currently learning **ASP.NET Core Web API** and exploring backend development
+- 🤖 Interested in **Artificial Intelligence**, **Deep Learning**, and **Smart Applications**
+- 🚀 I enjoy learning new technologies, solving problems, and turning ideas into practical projects
