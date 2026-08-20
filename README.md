@@ -42,3 +42,24 @@
 | 🗄️ | **SQL & Database Development** — SQL Server, T-SQL & Database Design |
 
 </div>
+## 🚀 Featured Projects
+
+### 🍔 FoodieAI Assistant — Smart Food AI
+> Python • TensorFlow • Keras • ResNet50 • LSTM • NLP • Streamlit
+
+- Built an AI-powered food assistant combining **Computer Vision and Natural Language Processing**.
+- Implemented a **34-class food image classification model** using **ResNet50 Transfer Learning**.
+- Applied a two-stage training strategy with **feature extraction and fine-tuning of the last 30 layers**.
+- Developed an **LSTM-based NLP model** to classify food-related user questions into different intents.
+- Implemented text preprocessing, tokenization, sequence padding, label encoding, and confidence-based intent detection.
+- Integrated both AI models into an interactive **Streamlit application** with **Vision Recon** and **Sentiment Analysis** modules.
+
+### 🤖 AI Beauty Scanner — Deepfake Detection
+> Python • TensorFlow • Keras • ResNet50 • OpenCV • Streamlit
+
+- Built an AI-powered image classification application to detect whether a face image is **Authentic or AI-Generated**.
+- Applied **Transfer Learning** using a pretrained **ResNet50** model.
+- Implemented image preprocessing and **data augmentation** including rotation, shifting, zooming, flipping, and brightness adjustment.
+- Trained the model in two stages: custom-layer training followed by **fine-tuning of the last 10 ResNet50 layers**.
+- Used **Accuracy and AUC** with callbacks for early stopping, learning-rate reduction, and best-model checkpointing.
+- Developed an interactive **Streamlit web interface** with image upload, prediction, and confidence visualization.
