@@ -21,6 +21,7 @@
 </div>
 
 ---
+
 ## 🧠 About Me
 
 > *"I enjoy designing efficient databases, building backend applications, and continuously turning what I learn into real-world projects."*
@@ -31,6 +32,9 @@
 - 🌱 Currently learning **ASP.NET Core Web API** and exploring backend development
 - 🤖 Interested in **Artificial Intelligence**, **Deep Learning**, and **Smart Applications**
 - 🚀 I enjoy learning new technologies, solving problems, and turning ideas into practical projects
+
+---
+
 ## 🏆 Experience & Highlights
 
 <div align="center">
@@ -42,6 +46,9 @@
 | 🗄️ | **SQL & Database Development** — SQL Server, T-SQL & Database Design |
 
 </div>
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🍔 FoodieAI Assistant — Smart Food AI
@@ -63,6 +70,9 @@
 - Trained the model in two stages: custom-layer training followed by **fine-tuning of the last 10 ResNet50 layers**.
 - Used **Accuracy and AUC** with callbacks for early stopping, learning-rate reduction, and best-model checkpointing.
 - Developed an interactive **Streamlit web interface** with image upload, prediction, and confidence visualization.
+
+---
+
 ## 💻 Tech Stack
 
 <div align="center">
@@ -106,6 +116,7 @@ CNN • Computer Vision • Object Detection • NLP • LSTM • Transfer Learn
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 </div>
+
 ---
 
 ## 📊 GitHub Stats
@@ -114,7 +125,17 @@ CNN • Computer Vision • Object Detection • NLP • LSTM • Transfer Learn
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rawda-Hafez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rawda-Hafez&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Rawda-Hafez&theme=tokyonight&hide_border=true" width="70%"/>
+
+</div>
+
 ---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -126,13 +147,6 @@ CNN • Computer Vision • Object Detection • NLP • LSTM • Transfer Learn
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rawda-Hafez&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Rawda-Hafez&theme=tokyonight&hide_border=true" width="70%"/>
-
-</div>
 ---
 
 ## 📈 Contribution Activity
@@ -142,6 +156,7 @@ CNN • Computer Vision • Object Detection • NLP • LSTM • Transfer Learn
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rawda-Hafez&theme=react-dark&hide_border=true&area=true&custom_title=Rawda's%20Contribution%20Graph" width="95%" />
 
 </div>
+
 ---
 
 ## 🤝 Connect With Me
@@ -161,6 +176,7 @@ CNN • Computer Vision • Object Detection • NLP • LSTM • Transfer Learn
 </a>
 
 </div>
+
 ---
 
 <div align="center">
