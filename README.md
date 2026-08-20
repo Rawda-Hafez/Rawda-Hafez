@@ -63,7 +63,6 @@
 - Trained the model in two stages: custom-layer training followed by **fine-tuning of the last 10 ResNet50 layers**.
 - Used **Accuracy and AUC** with callbacks for early stopping, learning-rate reduction, and best-model checkpointing.
 - Developed an interactive **Streamlit web interface** with image upload, prediction, and confidence visualization.
-
 ## 💻 Tech Stack
 
 <div align="center">
@@ -82,6 +81,10 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white)
+
+**AI Concepts:**  
+CNN • Computer Vision • Object Detection • NLP • LSTM • Transfer Learning • Fine-Tuning
 
 ### ⚙️ Backend & Frameworks
 
