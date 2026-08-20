@@ -31,13 +31,14 @@
 - 🌱 Currently learning **ASP.NET Core Web API** and exploring backend development
 - 🤖 Interested in **Artificial Intelligence**, **Deep Learning**, and **Smart Applications**
 - 🚀 I enjoy learning new technologies, solving problems, and turning ideas into practical projects
-  ## 🏆 Experience & Highlights
+## 🏆 Experience & Highlights
 
 <div align="center">
 
 | 🎓 | **Computer Science Student** — Egyptian Chinese University (ECU) |
 |---|---|
+| 💻 | **Software Development Trainee (.NET Full Stack)** — Digital Egypt Pioneers Initiative (DEPI) |
+| 🤖 | **Artificial Intelligence (AI) Level 1 Trainee** — National Telecommunication Institute (NTI) |
 | 🗄️ | **SQL & Database Development** — SQL Server, T-SQL & Database Design |
-| 💻 | **Backend Development Journey** — C# & ASP.NET Core |
 
 </div>
