@@ -114,10 +114,61 @@ CNN • Computer Vision • Object Detection • NLP • LSTM • Transfer Learn
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rawda-Hafez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
 
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rawda-Hafez/Rawda-Hafez/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rawda-Hafez/Rawda-Hafez/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rawda-Hafez/Rawda-Hafez/output/github-snake.svg" width="100%" />
+</picture>
+
+</div>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rawda-Hafez&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=Rawda-Hafez&theme=tokyonight&hide_border=true" width="70%"/>
+
+</div>
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rawda-Hafez&theme=react-dark&hide_border=true&area=true&custom_title=Rawda's%20Contribution%20Graph" width="95%" />
+
+</div>
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/rawda-hafez-08b962327">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/Rawda-Hafez">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:rawdaaahafez@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B39DDB,100:F8BBD0&height=100&section=footer" width="100%" />
+
+*"Turning ideas into smart, functional, and beautiful solutions."* 🚀
+
+**© 2026 Rawda Hafez — Egypt 🇪🇬**
 
 </div>
