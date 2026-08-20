@@ -1,139 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B39DDB,100:F8BBD0&height=220&section=header&text=Rawda%20Hafez&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B39DDB,100:F8BBD0&height=220&section=header&text=Rawda%20Hafez&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Backend%20Developer%20in%20Progress&descAlignY=58&descSize=17" width="100%" />
 
-# Hi there 👋 I'm Rawda Hafez
+<h1>Hi there 👋 I'm Rawda Hafez</h1>
 
-### 💻 Computer Science Student | Egyptian Chinese University 🇪🇬
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=B39DDB&center=true&vCenter=true&width=700&lines=Computer+Science+Student;SQL+%7C+Database+Enthusiast;C%23+Backend+Developer+in+Progress;ASP.NET+Core+Learner;AI+%7C+Deep+Learning+Explorer;Always+Learning+New+Things" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=B39DDB&center=true&vCenter=true&width=700&lines=Computer+Science+Student;SQL+%7C+Database+Enthusiast;Backend+Developer+in+Progress;AI+%7C+Deep+Learning+Learner;Always+Learning+New+Things"/>
+<br><br>
 
-<br>
+<img src="https://komarev.com/ghpvc/?username=Rawda-Hafez&label=PROFILE+VIEWS&color=B39DDB&style=for-the-badge"/>
 
-<img src="https://komarev.com/ghpvc/?username=Rawda-Hafez&label=Profile%20Views&color=b39ddb&style=for-the-badge"/>
-
-</div>
-
----
-
-## 🧠 About Me
-
-> *"I enjoy designing efficient databases, solving real-world problems, and continuously improving my development skills."*
-
-- 🎓 3rd-year **Computer Science** student at **Egyptian Chinese University (ECU)** 🇪🇬
-- 🗄️ Passionate about **Databases**, **SQL**, **Database Design**, and **Data Modeling**
-- 🤖 Exploring **Artificial Intelligence**, **Deep Learning**, and **Web Applications**
-- 💻 Building my skills in **C#**, **Git**, **GitHub**, and **Backend Development**
-- 🚀 Always learning new technologies and improving my problem-solving skills
-
----
-
-## 🚀 Currently Working On
-
-- 📚 Mastering **SQL Server** & **Database Design**
-- 💻 Building Backend Projects using **C#**
-- 🌱 Learning **ASP.NET Core**
-- 🏆 Solving SQL Challenges on **HackerRank**
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,sqlite,git,github,html,css,bootstrap,vscode,visualstudio"/>
-
-</p>
-
----
-
-## 📂 Featured Projects
-
-- 🌍 **Tourism Management System**
-- 🗄️ **SQL Practice Repository**
-- 💻 **C# Console Applications**
-- 📊 **Database Design Projects**
-
----
-
-## 📜 Certifications
-
-- 🏅 SQL Intermediate – HackerRank
-- 🏅 Git & GitHub Crash Course
-- 🏅 Database Fundamentals
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rawda-Hafez&show_icons=true&theme=rose_pine&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Rawda-Hafez&theme=rose_pine&hide_border=true"/>
-
-</p>
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rawda-Hafez&layout=compact&theme=rose_pine&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rawda-Hafez&theme=dracula&no-frame=true&margin-w=10&row=1"/>
-
-</p>
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rawda-Hafez&theme=dracula"/>
-
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
+<a href="https://github.com/Rawda-Hafez?tab=followers">
+<img src="https://img.shields.io/github/followers/Rawda-Hafez?style=for-the-badge&color=B39DDB&label=FOLLOWERS"/>
+</a>
 
 <a href="https://www.linkedin.com/in/rawda-hafez-08b962327">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/Rawda-Hafez">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
-
-</p>
-
----
-
-## ✨ Quote
-
-> **"Success is built through continuous learning, persistence, and turning knowledge into real-world projects."**
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,100:B39DDB&height=120&section=footer"/>
 
 </div>
+
+---
