@@ -1,62 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B39DDB,100:F8BBD0&height=220&section=header&text=Rawda%20Hafez&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Backend%20Developer%20in%20Progress&descAlignY=58&descSize=17" width="100%" />
+<!-- 🌸 HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B39DDB,100:F8BBD0&height=220&section=header&text=Rawda%20Hafez&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20C%23%20%26%20.NET%20Backend%20Developer&descAlignY=58&descSize=17" width="100%" />
 
-<h1>Hi there 👋 I'm Rawda Hafez</h1>
+<!-- 💜 TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=B39DDB&center=true&vCenter=true&multiline=false&width=750&lines=Computer+Science+Student;C%23+%26+.NET+Backend+Developer+in+Progress;ASP.NET+Core+Learner;SQL+%26+Database+Enthusiast;AI+%26+Deep+Learning+Explorer;Computer+Vision+Enthusiast" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=B39DDB&center=true&vCenter=true&width=700&lines=Computer+Science+Student;SQL+%7C+Database+Enthusiast;C%23+Backend+Developer+in+Progress;ASP.NET+Core+Learner;AI+%7C+Deep+Learning+Explorer;Always+Learning+New+Things" alt="Typing SVG" />
+<br/><br/>
 
-<br><br>
+<!-- 👀 PROFILE VIEWS -->
+<a href="https://github.com/Rawda-Hafez">
+  <img src="https://komarev.com/ghpvc/?username=Rawda-Hafez&label=PROFILE+VIEWS&color=B39DDB&style=for-the-badge" />
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=Rawda-Hafez&label=PROFILE+VIEWS&color=B39DDB&style=for-the-badge"/>
-
+<!-- ⭐ FOLLOWERS -->
 <a href="https://github.com/Rawda-Hafez?tab=followers">
-<img src="https://img.shields.io/github/followers/Rawda-Hafez?style=for-the-badge&color=B39DDB&label=FOLLOWERS"/>
+  <img src="https://img.shields.io/github/followers/Rawda-Hafez?style=for-the-badge&color=B39DDB&label=FOLLOWERS" />
 </a>
 
+<!-- 💼 LINKEDIN -->
 <a href="https://www.linkedin.com/in/rawda-hafez-08b962327">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
 
 ---
-
-## 🧠 About Me
-
-> *"I enjoy designing efficient databases, building backend applications, and continuously turning what I learn into real-world projects."*
-
-- 🎓 3rd-year **Computer Science** student at **Egyptian Chinese University (ECU)** 🇪🇬
-- 🗄️ Passionate about **Databases**, **SQL**, **Database Design**, and **Data Modeling**
-- 💻 Building my backend development skills with **C#** and **.NET**
-- 🌱 Currently learning **ASP.NET Core Web API** and exploring backend development
-- 🤖 Interested in **Artificial Intelligence**, **Deep Learning**, and **Smart Applications**
-- 🚀 I enjoy learning new technologies, solving problems, and turning ideas into practical projects
-
----
-
-## 🏆 Experience & Highlights
-
-<div align="center">
-
-| 🎓 | **Computer Science Student** — Egyptian Chinese University (ECU) |
-|---|---|
-| 💻 | **Software Development Trainee (.NET Full Stack)** — Digital Egypt Pioneers Initiative (DEPI) |
-| 🤖 | **Artificial Intelligence (AI) Level 1 Trainee** — National Telecommunication Institute (NTI) |
-| 🗄️ | **SQL & Database Development** — SQL Server, T-SQL & Database Design |
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### 🍔 FoodieAI Assistant — Smart Food AI
-> Python • TensorFlow • Keras • ResNet50 • LSTM • NLP • Streamlit
-
-- Built an AI-powered food assistant combining **Computer Vision and Natural Language Processing**.
-- Implemented a **34-class food image classification model** using **ResNet50 Transfer Learning**.
-- Applied a two-stage training strategy with **feature extraction and fine-tuning of the last 30 layers**.
-- Developed an **LSTM-based NLP model** to classify food-related user questions into different intents.
-- Implemented text preprocessing, tokenization, sequence padding, label encoding, and confidence-based intent detection.
-- Integrated both AI models into an interactive Streamlit application.
