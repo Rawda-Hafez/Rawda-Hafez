@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B39DDB,100:F8BBD0&height=220&section=header&text=Rawda%20Hafez&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Backend%20Developer%20in%20Progress&descAlignY=58&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B39DDB,100:F8BBD0&height=220&section=header&text=Rawda%20Hafez&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Backend%20Developer&descAlignY=58&descSize=17" width="100%" />
 
 <h1>Hi there 👋 I'm Rawda Hafez</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=B39DDB&center=true&vCenter=true&width=700&lines=Computer+Science+Student;SQL+%7C+Database+Enthusiast;C%23+Backend+Developer+in+Progress;ASP.NET+Core+Learner;AI+%7C+Deep+Learning+Explorer;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=B39DDB&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Backend+Developer+(ASP.NET+Core);SQL+%7C+Database+Enthusiast;Deep+Learning+%26+Computer+Vision+Explorer;Building+Scalable+Web+APIs;Always+Learning+New+Things" alt="Typing SVG" />
 
 <br><br>
 
@@ -24,26 +24,41 @@
 
 ## 🧠 About Me
 
-> *"I enjoy designing efficient databases, building backend applications, and continuously turning what I learn into real-world projects."*
+> *"I enjoy designing efficient databases, building robust backend architectures, and continuously turning complex ideas into real-world applications."*
 
 - 🎓 3rd-year **Computer Science** student at **Egyptian Chinese University (ECU)** 🇪🇬
-- 🗄️ Passionate about **Databases**, **SQL**, **Database Design**, and **Data Modeling**
-- 💻 Building my backend development skills with **C#** and **.NET**
-- 🌱 Currently learning **ASP.NET Core Web API** and exploring backend development
-- 🤖 Interested in **Artificial Intelligence**, **Deep Learning**, and **Smart Applications**
-- 🚀 I enjoy learning new technologies, solving problems, and turning ideas into practical projects
+- 💻 Specialized in **Backend Web Development** using **C#** and **ASP.NET Core Web API**
+- 🗄️ Passionate about **Database Architecture**, **SQL Optimization**, and **Data Modeling**
+- 🤖 Experienced in developing **Machine Learning & Deep Learning** applications (Computer Vision & NLP)
+- 🚀 Actively seeking opportunities to build scalable backends and collaborate on meaningful projects
 
 ---
 
-## 🏆 Experience & Highlights
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
 
-| 🎓 | **Computer Science Student** — Egyptian Chinese University (ECU) |
-|---|---|
-| 💻 | **Software Development Trainee (.NET Full Stack)** — Digital Egypt Pioneers Initiative (DEPI) |
-| 🤖 | **Artificial Intelligence (AI) Level 1 Trainee** — National Telecommunication Institute (NTI) |
-| 🗄️ | **SQL & Database Development** — SQL Server, T-SQL & Database Design |
+| Area | Technologies & Tools |
+| :--- | :--- |
+| **Backend & Languages** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
+| **Databases & ORM** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=nuget&logoColor=white) |
+| **AI & Data Science** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| **Tools & Workflows** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) |
+
+</div>
+
+---
+
+## 🏆 Experience & Traineeships
+
+<div align="center">
+
+| Icon | Program & Focus | Organization |
+| :---: | :--- | :--- |
+| 🎓 | **Computer Science Student** | Egyptian Chinese University (ECU) |
+| 💻 | **Software Development Trainee (.NET Full Stack)** | Digital Egypt Pioneers Initiative (DEPI) |
+| 🤖 | **Artificial Intelligence (AI) Trainee** | National Telecommunication Institute (NTI) |
+| 🗄️ | **Advanced Database Design & SQL** | Independent Mastery & Academic Projects |
 
 </div>
 
@@ -51,129 +66,33 @@
 
 ## 🚀 Featured Projects
 
-### 🍔 FoodieAI Assistant — Smart Food AI
+### 🏛️ KEMET — Smart Tourism Platform (Backend API)
+> C# • ASP.NET Core • PostgreSQL • EF Core (TPT Mapping) • JWT • Swagger
+
+- Engineered the backend RESTful architecture for an integrated Egyptian tourism platform.
+- Implemented **Table-Per-Type (TPT)** database inheritance mapping separating Local Egyptians, International Visitors, and Tour Guides.
+- Designed an overlap-prevention booking engine ensuring certified tour guides receive conflict-free reservations.
+- Developed an atomic multi-part registration pipeline with **magic-byte inspection** for license verification.
+- Integrated persona-based AI trip planning endpoints and a gamified **Papyrus Points loyalty system**.
+
+---
+
+### 🍔 FoodieAI Assistant — Smart Food Assistant
 > Python • TensorFlow • Keras • ResNet50 • LSTM • NLP • Streamlit
 
-- Built an AI-powered food assistant combining **Computer Vision and Natural Language Processing**.
-- Implemented a **34-class food image classification model** using **ResNet50 Transfer Learning**.
-- Applied a two-stage training strategy with **feature extraction and fine-tuning of the last 30 layers**.
-- Developed an **LSTM-based NLP model** to classify food-related user questions into different intents.
-- Implemented text preprocessing, tokenization, sequence padding, label encoding, and confidence-based intent detection.
-- Integrated both AI models into an interactive **Streamlit application** with **Vision Recon** and **Sentiment Analysis** modules.
-
-### 🤖 AI Beauty Scanner — Deepfake Detection
-> Python • TensorFlow • Keras • ResNet50 • OpenCV • Streamlit
-
-- Built an AI-powered image classification application to detect whether a face image is **Authentic or AI-Generated**.
-- Applied **Transfer Learning** using a pretrained **ResNet50** model.
-- Implemented image preprocessing and **data augmentation** including rotation, shifting, zooming, flipping, and brightness adjustment.
-- Trained the model in two stages: custom-layer training followed by **fine-tuning of the last 10 ResNet50 layers**.
-- Used **Accuracy and AUC** with callbacks for early stopping, learning-rate reduction, and best-model checkpointing.
-- Developed an interactive **Streamlit web interface** with image upload, prediction, and confidence visualization.
+- Built an intelligent multimodal AI assistant combining **Computer Vision and Natural Language Processing**.
+- Developed a **34-class food image classifier** using **ResNet50 Transfer Learning** with a two-stage fine-tuning strategy.
+- Implemented an **LSTM-based NLP classifier** to detect food-related queries and intents with confidence scoring.
+- Integrated models into an interactive **Streamlit web application** for real-time inference and user interactions.
 
 ---
 
-## 💻 Tech Stack
+## 📊 GitHub Analytics
 
 <div align="center">
 
-### 🧑‍💻 Languages
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🤖 AI / Machine Learning
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white)
-
-**AI Concepts:**  
-CNN • Computer Vision • Object Detection • NLP • LSTM • Transfer Learning • Fine-Tuning
-
-### ⚙️ Backend & Frameworks
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### 🗄️ Databases
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🛠️ Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rawda-Hafez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rawda-Hafez&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Rawda-Hafez&theme=tokyonight&hide_border=true" width="70%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rawda-Hafez/Rawda-Hafez/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rawda-Hafez/Rawda-Hafez/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rawda-Hafez/Rawda-Hafez/output/github-snake.svg" width="100%" />
-</picture>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rawda-Hafez&theme=react-dark&hide_border=true&area=true&custom_title=Rawda's%20Contribution%20Graph" width="95%" />
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/rawda-hafez-08b962327">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/Rawda-Hafez">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:rawdaaahafez@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Rawda-Hafez&show_icons=true&theme=buefy&hide_border=true&bg_color=00000000&text_color=555555&icon_color=B39DDB&title_color=8E24AA" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rawda-Hafez&layout=compact&theme=buefy&hide_border=true&bg_color=00000000&text_color=555555&title_color=8E24AA" height="150" />
 
 </div>
 
@@ -181,10 +100,9 @@ CNN • Computer Vision • Object Detection • NLP • LSTM • Transfer Learn
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B39DDB,100:F8BBD0&height=100&section=footer" width="100%" />
+### 🤝 Let's Connect!
 
-*"Turning ideas into smart, functional, and beautiful solutions."* 🚀
-
-**© 2026 Rawda Hafez — Egypt 🇪🇬**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rawda_Hafez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rawda-hafez-08b962327)
+[![GitHub](https://img.shields.io/badge/GitHub-Rawda--Hafez-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rawda-Hafez)
 
 </div>
