@@ -6,19 +6,22 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=B39DDB&center=true&vCenter=true&width=700&lines=Computer+Science+Student;SQL+%7C+Database+Enthusiast;C%23+Backend+Developer+in+Progress;ASP.NET+Core+Learner;AI+%7C+Deep+Learning+Explorer;Always+Learning+New+Things" alt="Typing SVG" />
 
-<br><br>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=Rawda-Hafez&label=PROFILE+VIEWS&color=B39DDB&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Rawda-Hafez&label=PROFILE+VIEWS&color=B39DDB&style=for-the-badge" />
 
 <a href="https://github.com/Rawda-Hafez?tab=followers">
-<img src="https://img.shields.io/github/followers/Rawda-Hafez?style=for-the-badge&color=B39DDB&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/followers/Rawda-Hafez?style=for-the-badge&color=B39DDB&label=FOLLOWERS" />
 </a>
 
 <a href="https://www.linkedin.com/in/rawda-hafez-08b962327">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
+
+---
+
 ## 🧠 About Me
 
 > *"I enjoy building backend applications, designing efficient databases, and exploring AI to turn ideas into practical solutions."*
@@ -31,12 +34,14 @@
 * 🚀 I enjoy learning new technologies, solving problems, and turning what I learn into **real-world projects**
 
 ---
+
 ## 🏆 Experience & Highlights
 
 <div align="center">
 
-| 🎓  | **Computer Science Student** — Egyptian Chinese University (ECU)                              |
+|     | Experience                                                                                    |
 | --- | --------------------------------------------------------------------------------------------- |
+| 🎓  | **Computer Science Student** — Egyptian Chinese University (ECU)                              |
 | 💻  | **Software Development Trainee (.NET Full Stack)** — Digital Egypt Pioneers Initiative (DEPI) |
 | 🤖  | **Artificial Intelligence (AI) Trainee** — National Telecommunication Institute (NTI)         |
 | 🗄️ | **SQL & Database Development** — SQL Server, T-SQL & Database Design                          |
@@ -44,21 +49,22 @@
 </div>
 
 ---
+
 ## 🚀 Featured Projects
 
 ### 🌸 AI Beauty Scanner — Deepfake Detection
 
-> Python • TensorFlow • Keras • CNN • ResNet50 • Computer Vision
+> **Python • TensorFlow • Keras • CNN • ResNet50 • Computer Vision**
 
 * Built a **deepfake detection system** for classifying real and manipulated facial images.
 * Developed a custom **CNN model** and a **ResNet50 transfer learning model** for binary classification.
-* Preprocessed and trained models on **Celeb-DF / deepfake datasets** with standardized image inputs.
+* Preprocessed and trained models on **deepfake datasets** with standardized image inputs.
 * Applied **data splitting, model training, validation, and performance evaluation**.
 * Achieved high classification performance using both CNN and ResNet50 architectures.
 
 ### 🍔 FoodieAI Assistant — Smart Food AI
 
-> Python • TensorFlow • Keras • ResNet50 • LSTM • NLP • Streamlit
+> **Python • TensorFlow • Keras • ResNet50 • LSTM • NLP • Streamlit**
 
 * Built an AI-powered food assistant combining **Computer Vision and Natural Language Processing**.
 * Implemented a **34-class food image classification model** using **ResNet50 Transfer Learning**.
@@ -72,7 +78,7 @@
 
 <div align="center">
 
-### Languages
+### 🌸 Languages
 
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -81,26 +87,26 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-### Backend
+### 💜 Backend
 
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 
-### AI / Machine Learning
+### 🤖 AI & Machine Learning
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 
-### Databases
+### 🗄️ Databases
 
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-### Tools
+### 🛠️ Tools
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -110,13 +116,14 @@
 </div>
 
 ---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats-seven-ecru-80.vercel.app/api?username=Rawda-Hafez&theme=radical&hide_border=true&show_icons=true" height="170" />
 
-  
+    
 
 <img src="https://github-readme-stats-seven-ecru-80.vercel.app/api/top-langs/?username=Rawda-Hafez&theme=radical&hide_border=true&layout=compact" height="170" />
 
@@ -135,10 +142,52 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rawda-Hafez/Rawda-Hafez/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rawda-Hafez/Rawda-Hafez/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rawda-Hafez/Rawda-Hafez/output/github-snake.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Rawda-Hafez/Rawda-Hafez/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 </picture>
 
 </div>
 
 ---
+
+<div align="center">
+
+### 💜 Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,100:B39DDB&height=120&section=footer" width="100%" />
+
+</div>
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/rawda-hafez-08b962327">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-B39DDB?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+  
+
+<a href="mailto:rawdaaahafez@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-F8BBD0?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+  
+
+<a href="https://github.com/Rawda-Hafez">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,100:B39DDB&height=120&section=footer" width="100%" />
+
+### 💜 Always Learning. Always Building. Always Growing.
+
+*"Building my backend skills, exploring AI, and turning ideas into real-world projects."* 🚀
+
+**© 2026 Rawda Hafez — Egypt 🇪🇬**
+
+</div>
 
