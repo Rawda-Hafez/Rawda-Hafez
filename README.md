@@ -149,13 +149,6 @@
 
 ---
 
-<div align="center">
-
-### 💜 Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,100:B39DDB&height=120&section=footer" width="100%" />
-
-</div>
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -179,6 +172,7 @@
 </div>
 
 ---
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,100:B39DDB&height=120&section=footer" width="100%" />
@@ -190,4 +184,3 @@
 **© 2026 Rawda Hafez — Egypt 🇪🇬**
 
 </div>
-
